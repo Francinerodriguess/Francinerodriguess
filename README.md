@@ -182,9 +182,4 @@ Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francinerodriguess&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
+      
