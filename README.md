@@ -151,14 +151,7 @@ Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-    <img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+
 />
 
 
@@ -178,8 +171,5 @@ Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente
     src="https://github-readme-stats.vercel.app/api?username=Francinerodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
+
       
