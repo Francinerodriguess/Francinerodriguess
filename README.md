@@ -35,7 +35,7 @@ Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Moro atual
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que estou aprendendo
 
 
 <img 
