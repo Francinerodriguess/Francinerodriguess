@@ -1,8 +1,8 @@
 # 👩🏽‍💻 Fran Rodrigues
 
-**'Desenvolvedora FullStack'**
+**'Desenvolvedora de Software'**
 
-Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia.
+ Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia.
 
  <p align="left">
       <a href="https://www.youtube.com/@dev_fran">
