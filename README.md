@@ -2,7 +2,7 @@
 
 **'Desenvolvedora FullStack'**
 
-Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e compartilho meus conhecimentos através do meu canal no YouTube "[Fran Rodrigues.Dev](https://www.youtube.com/@dev_fran)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[fran__dev](https://www.instagram.com/dev__fran/)".
+Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia.
 
  <p align="left">
       <a href="https://www.youtube.com/@dev_fran">
