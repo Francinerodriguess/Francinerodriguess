@@ -2,7 +2,7 @@
 
 **'Desenvolvedora de Software'**
 
- Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Moro atualmente em Jundiaí-SP, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e me mantenho atualizada através dos cursos da plataforma Alura.  
+   Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Moro atualmente em Jundiaí-SP, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e me mantenho atualizada através dos cursos da plataforma Alura.  
 
  <p align="left">
       <a href="https://www.youtube.com/@dev_fran">
