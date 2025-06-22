@@ -64,13 +64,7 @@ Alura: Participando ativamente de cursos para me manter atualizada com as últim
     </a>  
 </p>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/francinerodriguess/francinerodriguess/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 🤖 Linguagens e Tecnologias que estou aprendendo
 
