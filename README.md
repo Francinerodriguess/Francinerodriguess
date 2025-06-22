@@ -2,7 +2,20 @@
 
 **'Desenvolvedora de Software'**
 
-Olá! Me chamo Francine Rodrigues, tenho 29 anos e sou natural de Salvador. Moro atualmente em Jundiaí-SP, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e me mantenho atualizada através dos cursos da plataforma Alura.  
+🚀 Sobre Mim
+Sou uma estudante de Engenharia de Software e atuo como estagiária em análise de sistemas. Minha paixão por tecnologia me motiva a buscar constantemente novos conhecimentos e desafios. 
+
+📚 Educação
+Cursando Engenharia de Software (em andamento)
+💻 Habilidades
+Estou em processo de aprendizado e aprimoramento nas seguintes áreas:
+
+Desenvolvimento de Software
+Análise de Sistemas
+
+🌱 Aprendizado Contínuo
+Alura: Participando ativamente de cursos para me manter atualizada com as últimas tendências e tecnologias.
+
 
  <p align="left">
       <a href="https://www.youtube.com/@dev_fran">
