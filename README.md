@@ -49,6 +49,9 @@ Alura: Participando ativamente de cursos para me manter atualizada com as últim
     </a>  
 </p>
 
+
+### 🤖 Linguagens e Tecnologias que estou aprendendo
+
 ###
 
 <div align="left">
@@ -81,7 +84,6 @@ Alura: Participando ativamente de cursos para me manter atualizada com as últim
 
 ---
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
 
  
    
