@@ -12,7 +12,7 @@ Cursando Engenharia de Software (em andamento)
 💻 Habilidades
 Estou em processo de aprendizado e aprimoramento nas seguintes áreas:
 
-Desenvolvimento de Software
+Desenvolvimento de Software e
 Análise de Sistemas
 
 🌱 Aprendizado Contínuo
