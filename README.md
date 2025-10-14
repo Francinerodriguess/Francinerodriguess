@@ -4,7 +4,7 @@
 
 🚀 Sobre Mim
 
-Sou uma estudante de Engenharia de Software e atuo como estagiária em análise de sistemas. Minha paixão por tecnologia me motiva a buscar constantemente novos conhecimentos e desafios. 
+Estudante de Engenharia de Software. Minha paixão por tecnologia me motiva a buscar constantemente novos conhecimentos e desafios. 
 
 📚 Educação
 
