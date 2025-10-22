@@ -97,7 +97,8 @@ Alura: Participando ativamente de cursos para me manter atualizada com as últim
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/francinerodriguess/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/francinerodriguess/count.svg?"  
+    />
 </div>
 
 ###
