@@ -31,19 +31,10 @@ Alura: Participando ativamente de cursos para me manter atualizada com as últim
   </a>
 </div>
 
- <p align="left">
-      <a href="https://www.youtube.com/@dev_fran">
-            <img 
-                alt="Inscritos"
-                title="Inscreva-se" 
-                src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCz9D4wHaXfimINCIcZkvDWw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-                />
+ <p 
+              /
     </a> 
-      <a href="https://www.youtube.com/@dev_fran">
-         <img 
-            alt="youtube views" 
-            title="YouTube views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCz9D4wHaXfimINCIcZkvDWw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+      <a 
     </a> 
              <a href="https://github.com/Francinerodriguess?tab=repositories&sort=stargazers">
          <img 
